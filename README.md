@@ -441,7 +441,7 @@ This project is open source and available under the MIT License.
 
 For questions, suggestions, or collaboration:
 - Create an issue on GitHub
-- Email: patelmeet2406@gmail.com
+- Email: akshityagi703760@gmail.com 
 
 ---
 
